@@ -1,6 +1,6 @@
 NAME="unibilium"
 VERSION="2.0.0"
-RELEASE=1
+RELEASE=2
 LICENSE="GPL-3.0-only OR LGPL-3.0-only"
 
 CATEGORY="Libs"
